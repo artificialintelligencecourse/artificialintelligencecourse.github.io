@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Machine Learning Course
-email: machine.learning.course.tr@gmail.com
+title: Artificial Intelligence Course
+email: artificialintelligence@adresgezgini.com
 description: "Course materials for Machine Learning Course given by Şükrü Ozan, Ph.D."
 #baseurl: "http://machinelearningcourse.github.io"
-url: "http://machinelearningcourse.github.io"
+url: "http://artificialintelligencecourse.github.io"
 twitter_username: sukruozan
-github_username:  machinelearningcourse
+github_username:  artificialintelligencecourse
 
 header_pages:
   - about.md{:target="blank"}
