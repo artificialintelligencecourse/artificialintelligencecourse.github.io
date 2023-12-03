@@ -11,7 +11,7 @@ This is the homepage for our course. Visit this page frequently to see the annou
 
 _(Notice: Github.io may not support HTML target tag. If you want ctrl+Click will open the links in new tabs.)_
 
-### **OCTAVE/MATLAB TUTORIALS**
+<!-- ### **OCTAVE/MATLAB TUTORIALS**
 
 You can reach some octave/matlab tutorials from [this page](/tutorials/octave-matlab/){:target="blank"}. Octave is an opensource alternative to MATLAB. The basic usage and common syntax of Octave is inherited from MATLAB, hence most of the coding examples in this course are both matlab and octave compatible.
 
@@ -21,7 +21,7 @@ You can reach some octave/matlab tutorials from [this page](/tutorials/octave-ma
 ### **LATEST ANNOUNCEMENTS**
 
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
-- Check your attendance and inform me if there is any mistake in your attendance records.
+- Check your attendance and inform me if there is any mistake in your attendance records. -->
 
 <!-- 
 ### **HOMEWORK**
@@ -32,7 +32,7 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
 -->
 
 
-### **CLASS PRESENTATIONS**
+<!-- ### **CLASS PRESENTATIONS**
  - [LECTURE01 Date:14.07.2021](https://docs.google.com/presentation/d/e/2PACX-1vQDXa2P8QUxiXqIjHLTIljgMaG88Hu4MRtI9UGkCwez9WrW-lx1aC5FaVX5e3Mw7oJLplVo9fjv-Q92/pub?start=true&loop=true&delayms=60000){:target="blank"}  
  
  - [LECTURE02 Date:27.07.2021](https://docs.google.com/presentation/d/e/2PACX-1vQR7vHCxKYGrh2aXQyd_5CvlcAtNDWwjJdzRjcfndtTOZBh9EvO545YqVp5YV2RqLC7wFI0KFanavTF/pub?start=false&loop=false&delayms=60000){:target="blank"}  
@@ -51,7 +51,7 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
 ){:target="blank"}   
 
  - [LECTURE09 Date:15.09.2021](https://github.com/machinelearningcourse/machinelearningcourse.github.io/raw/master/docs/Lecture09.%20Machine%20Learning%20Lecture%20Notes.pdf
-){:target="blank"}   
+){:target="blank"}   --> 
 
 <!--  
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
