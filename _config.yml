@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Artificial Intelligence Course
 email: artificialintelligence@adresgezgini.com
-description: "Course materials for Machine Learning Course given by Şükrü Ozan, Ph.D."
+description: "Course materials for Artificial Intelligence Course"
 #baseurl: "http://machinelearningcourse.github.io"
 url: "http://artificialintelligencecourse.github.io"
-twitter_username: sukruozan
+#twitter_username: sukruozan
 github_username:  artificialintelligencecourse
 
 header_pages:
